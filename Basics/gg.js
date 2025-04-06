@@ -1,6 +1,6 @@
 //hello
 
-const arrayss = ["dipendra","hello","hoe"]
+const arrayss = ["dipendra","hello","hi"]
 const ray = ["gope","fsdf","fsdfs"]
 
 // const deeper =  arrayss.concat(ray);
